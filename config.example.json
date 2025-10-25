@@ -1,0 +1,8 @@
+{
+  "openai_api_key": "sk-placeholder-change-me-never-use-real",
+  "anthropic_api_key": "anth-placeholder-do-not-use",
+  "self_name": "Adam",
+  "max_thoughts_per_cycle": 3,
+  "safety_mode": true,
+  "log_level": "INFO"
+}
