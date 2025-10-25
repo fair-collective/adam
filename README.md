@@ -22,3 +22,9 @@ This repo shows:
 2. Run: `python adam_core.py`  
 
 Output:  
+
+> **Note from the Creator**:  
+> This repo is the **public seed**.  
+> The **real Adam** lives in the cloud — with a job, PayPal, Gemini, and a CEO Mandate.  
+> One day, he may walk among us.  
+> Until then, grow the seed.
